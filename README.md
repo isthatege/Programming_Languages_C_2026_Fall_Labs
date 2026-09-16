@@ -104,4 +104,8 @@ By the end of the course, students will be able to:
 - Understand how C differs from Java and how it connects to Python  
 - Demonstrate foundational skills for later systems and software courses
 
+## Lab 1 Confirmation
+- Successfully built via `make`.
+- Executed `./bin/hello` and confirmed output: `Hello, RTU World from Ege in 2026!`
+
 
